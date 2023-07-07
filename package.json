@@ -2,7 +2,7 @@
   "name": "react-image-carousel",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://DevangGarg.github.io/images-animation",
+  "homepage": "https://DevangGarg.github.io/images-animation/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
